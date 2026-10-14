@@ -1,0 +1,102 @@
+{
+  "account_id": "17841400000000002",
+  "handle": "sample_weak_offer",
+  "bio": "✨ Mindset + business coach | Helping women step into their power | Life changing results guaranteed | DM me 'READY'",
+  "followers": 9800,
+  "link_in_bio_text": "Sienna Vale | Limitless You Mentorship. Are you ready to become the woman you were born to be? This mentorship is for women who are DONE playing small. Inside you will unlock your highest self, release your blocks and align with abundance. Book a free discovery call with me: calendly.com/siennavale/discovery. Spaces are limited.",
+  "posts": [
+    {
+      "post_id": "p01",
+      "date": "2026-08-12",
+      "caption": "You are ONE decision away from the life you keep dreaming about ✨ Stop waiting. Start being.",
+      "likes": 96,
+      "comments_count": 12,
+      "comments": [
+        {
+          "author": "glow_with_gina",
+          "text": "Love this energy!",
+          "reply_from_owner": "🙌🙌",
+          "reply_delay_hours": 15
+        },
+        {
+          "author": "mel.manifests",
+          "text": "So true 💫",
+          "reply_from_owner": null,
+          "reply_delay_hours": null
+        }
+      ]
+    },
+    {
+      "post_id": "p02",
+      "date": "2026-08-26",
+      "caption": "Your vibe attracts your tribe. If you're ready to stop playing small, my mentorship is open. Link in bio 💖",
+      "likes": 88,
+      "comments_count": 9,
+      "comments": [
+        {
+          "author": "curious_claire",
+          "text": "Has anyone actually done this programme? I can't find any reviews",
+          "reply_from_owner": "Trust the process babe, results come to those who show up 💫",
+          "reply_delay_hours": 20
+        },
+        {
+          "author": "jen_journals",
+          "text": "What's actually included?",
+          "reply_from_owner": "DM me and we can hop on a call ✨",
+          "reply_delay_hours": 28
+        }
+      ]
+    },
+    {
+      "post_id": "p03",
+      "date": "2026-09-09",
+      "caption": "Comment ABUNDANCE and I'll send you my free alignment guide 🌙",
+      "likes": 71,
+      "comments_count": 22,
+      "comments": [
+        {
+          "author": "mel.manifests",
+          "text": "ABUNDANCE",
+          "reply_from_owner": "Sent you a DM lovely!",
+          "reply_delay_hours": 17
+        },
+        {
+          "author": "rosie.rising",
+          "text": "ABUNDANCE",
+          "reply_from_owner": null,
+          "reply_delay_hours": null
+        }
+      ]
+    },
+    {
+      "post_id": "p04",
+      "date": "2026-09-23",
+      "caption": "Nobody is coming to save you. You have to save yourself. 🔥",
+      "likes": 104,
+      "comments_count": 8,
+      "comments": [
+        {
+          "author": "glow_with_gina",
+          "text": "Needed this today",
+          "reply_from_owner": null,
+          "reply_delay_hours": null
+        }
+      ]
+    },
+    {
+      "post_id": "p05",
+      "date": "2026-10-07",
+      "caption": "Grateful for this journey. Big things coming. Stay tuned 👀",
+      "likes": 63,
+      "comments_count": 6,
+      "comments": [
+        {
+          "author": "jen_journals",
+          "text": "Can't wait!",
+          "reply_from_owner": "💖",
+          "reply_delay_hours": 30
+        }
+      ]
+    }
+  ]
+}

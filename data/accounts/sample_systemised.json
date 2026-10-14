@@ -1,0 +1,117 @@
+{
+  "account_id": "17841400000000003",
+  "handle": "sample_systemised",
+  "bio": "Scale Studio 🏋️ We help personal trainers build online coaching businesses | 900+ coaches helped | Team of 6 coaches",
+  "followers": 64000,
+  "link_in_bio_text": "Scale Studio | The Online PT Business Programme. Join instantly: scalestudio.co/join (checkout, payment plans available). What you get: weekly group calls with our team of 6 certified business coaches, daily support in our community app, and a dedicated success manager. Questions? Our community manager Jess and the support team reply within one hour, 7 days a week. Prefer to talk first? Book a call with one of our enrolment advisors. Case studies: 900+ coaches helped, 214 coaches now earning over £10k a month.",
+  "posts": [
+    {
+      "post_id": "p01",
+      "date": "2026-08-03",
+      "caption": "Round 7 of Scale Studio sold out in 5 days 🚀 Round 8 opens 1 November and the waitlist is already at 400. Join it through the link in bio.",
+      "likes": 2310,
+      "comments_count": 188,
+      "comments": [
+        {
+          "author": "pt_jamie_fit",
+          "text": "When does round 8 open? I need in",
+          "reply_from_owner": "1 November! Our team will email you the moment it's live. - Jess, community team",
+          "reply_delay_hours": 0.4
+        },
+        {
+          "author": "coach.rachel.lifts",
+          "text": "Is there a payment plan?",
+          "reply_from_owner": "Yes, 3 or 6 months at checkout 👍 - Tom, support",
+          "reply_delay_hours": 0.2
+        }
+      ]
+    },
+    {
+      "post_id": "p02",
+      "date": "2026-08-10",
+      "caption": "Client spotlight: Leon went from 6 in person clients to 31 online clients in 4 months and replaced his gym income. He's now in our alumni mastermind.",
+      "likes": 1870,
+      "comments_count": 142,
+      "comments": [
+        {
+          "author": "leon.online.pt",
+          "text": "This programme changed my life, I'm now at £14k a month",
+          "reply_from_owner": "Proud of you Leon! - Jess",
+          "reply_delay_hours": 0.3
+        },
+        {
+          "author": "strong_sophie_pt",
+          "text": "Same here, second time through and I just hit 40 clients",
+          "reply_from_owner": "Legend! 🙌 - Tom, support",
+          "reply_delay_hours": 0.5
+        }
+      ]
+    },
+    {
+      "post_id": "p03",
+      "date": "2026-08-17",
+      "caption": "Comment PLAN and our DM bot will send you the 30 day client acquisition plan instantly 📲",
+      "likes": 1540,
+      "comments_count": 612,
+      "comments": [
+        {
+          "author": "fitwithfaye",
+          "text": "PLAN",
+          "reply_from_owner": "Check your DMs! The plan is on its way automatically 🤖",
+          "reply_delay_hours": 0.01
+        },
+        {
+          "author": "liftlikelaura",
+          "text": "PLAN",
+          "reply_from_owner": "Check your DMs! The plan is on its way automatically 🤖",
+          "reply_delay_hours": 0.01
+        }
+      ]
+    },
+    {
+      "post_id": "p04",
+      "date": "2026-08-24",
+      "caption": "Behind the scenes: meet our coaching team. Six certified coaches, a success manager and Jess running our community. I spend my time on strategy and content now, not inboxes.",
+      "likes": 2050,
+      "comments_count": 97,
+      "comments": [
+        {
+          "author": "pt_jamie_fit",
+          "text": "Love seeing the team grow",
+          "reply_from_owner": "Thanks Jamie! - Jess, community team",
+          "reply_delay_hours": 0.6
+        }
+      ]
+    },
+    {
+      "post_id": "p05",
+      "date": "2026-09-07",
+      "caption": "Another week, another 23 client wins posted in our community app. Here are three of my favourites 👇",
+      "likes": 1690,
+      "comments_count": 88,
+      "comments": [
+        {
+          "author": "newcoach_nina",
+          "text": "How do I know if I'm ready to join?",
+          "reply_from_owner": "Great question! You can book a call with one of our enrolment advisors through the link in bio - Tom, support",
+          "reply_delay_hours": 0.8
+        }
+      ]
+    },
+    {
+      "post_id": "p06",
+      "date": "2026-09-21",
+      "caption": "Our coaches ran 64 group calls this month. I ran zero, and the results went up. That's what systems do.",
+      "likes": 1980,
+      "comments_count": 104,
+      "comments": [
+        {
+          "author": "strong_sophie_pt",
+          "text": "Coach Mia's calls are the best 🙌",
+          "reply_from_owner": "She's amazing! - Jess",
+          "reply_delay_hours": 0.3
+        }
+      ]
+    }
+  ]
+}

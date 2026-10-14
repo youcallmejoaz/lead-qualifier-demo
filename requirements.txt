@@ -1,0 +1,7 @@
+anthropic>=1.14.0
+pyairtable>=3.5.0
+pydantic>=2.8
+typer>=0.12
+rich>=13.7
+python-dotenv>=1.0
+pytest>=8.0
