@@ -299,7 +299,7 @@ def rename_test(handle: str = typer.Option("sample_qualified", "--handle"),
     old_handle = store.get_result(account_id).handle
     original = old_handle.removesuffix("_rebrand")
     new_handle = f"{original}_rebrand" if old_handle == original else original
-    console.print(f"Before: Airtable has [bold]{len(before)}[/] record(s) for Account ID {account_id}"
+    console.print(f"Before: Airtable has [bold]{display._n(len(before), 'record')}[/] for Account ID {account_id}"
                   + (f" · record {before[0]['id']} · handle @{before[0]['fields'].get('Handle')}" if before else ""))
 
     console.print(f"Changing handle [bold]@{old_handle}[/] → [bold]@{new_handle}[/] (account_id unchanged)")
